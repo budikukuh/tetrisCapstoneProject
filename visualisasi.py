@@ -1,3 +1,4 @@
+from os import linesep
 import plotly.express as px
 
 def plotBar(data, x, y):
