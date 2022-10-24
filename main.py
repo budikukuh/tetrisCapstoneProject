@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import plotly.graph_objs as go
+# import plotly.graph_objs as go
 
 top_sma_df = pd.read_excel('top_sman_dataset.xlsx')
 
